@@ -1,0 +1,7 @@
+body{
+    background-color: blanchedalmond;
+}
+.dark-mode {
+    filter: invert(100%)
+    }
+
